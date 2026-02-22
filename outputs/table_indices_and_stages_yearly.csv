@@ -1,0 +1,4 @@
+﻿year,events,nodes,edges,density,reorg_raw,type_entropy,new_actor_ratio,theme_novelty,actor_persistence,theme_repetition,O,R,S,stage,p_openness,p_reorganization,p_steadystate
+1985,2,0,0,0.0,0.0,0.6931471805579453,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.3333333333333333,SteadyState,0.5,0.0,0.5
+2025,40,0,0,0.0,0.0,-1.000088900581841e-12,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,SteadyState,0.0,0.0,1.0
+2026,21,0,0,0.0,0.0,-1.000088900581841e-12,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,SteadyState,0.0,0.0,1.0

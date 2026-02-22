@@ -1,0 +1,17 @@
+﻿metric,value
+n_records,69.0
+n_fields,48.0
+missing_ratio:year,0.0
+missing_ratio:city,0.362319
+missing_ratio:geo_scope,0.0
+missing_ratio:geo_evidence,0.0
+missing_ratio:institution_level,0.0
+missing_ratio:polemic_score,0.0
+missing_ratio:archivalization_score_v2,0.0
+missing_ratio:semantic_noise,0.0
+geo_evidence_count:A_exact,44.0
+geo_evidence_count:C_unknown,25.0
+geo_scope_count:unknown,26.0
+geo_scope_count:local,21.0
+geo_scope_count:national,19.0
+geo_scope_count:transregional,3.0

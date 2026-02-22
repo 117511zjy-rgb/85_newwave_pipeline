@@ -1,0 +1,9 @@
+rows=3
+event_type_counts:
+event_type
+other    3
+
+missing_ratio:
+actors=1.0000
+organizations=1.0000
+themes=1.0000

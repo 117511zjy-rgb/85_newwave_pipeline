@@ -1,0 +1,12 @@
+﻿field,missing_ratio,unique_top10
+city,0.5217391304347826,;北京;上海;重庆;西安;深圳
+city_method,0.0,unknown;kept
+institution_level,0.0,unknown;media;museum;platform;market
+institution_level_method,0.0,kept
+tech_channel,0.0,retrospective_web
+tech_channel_method,0.0,domain_rule
+source_kind,0.0,unknown;primary_like;institution
+source_domain,0.0,duckduckgo.com;ucca.org.cn
+themes_raw,0.463768115942029,;前卫;前卫;新潮;观念;政治;新潮;观念;行为;前卫;实验;装置;行为;新潮;抽象;现代性;前卫;话语
+themes_cluster,0.2898550724637681,;avantgarde_discourse;institutional_exhibition;avantgarde_discourse;avantgarde_discourse;archivalization;institutional_exhibition;archivalization;institutional_exhibition;institutional_exhibition;avantgarde_discourse;institutional_exhibition;media_diffusion;avantgarde_discourse;archivalization;archivalization;media_diffusion
+space_scale,0.0,unknown;local
